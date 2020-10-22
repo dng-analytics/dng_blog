@@ -51,6 +51,6 @@ hero_media = "dng_logo.png"
   # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-_Updated as necessary_
+
 
 
