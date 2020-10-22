@@ -36,6 +36,14 @@ weight: 1
 
 [Mintel Challenger Brands January 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Challenger%20Brands%20-%20US%20-%20January%202020.pdf)
 
+## Brand Trust 
+
+[Edelman Brand Trust 2018](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/edelman/2018_Edelman_Earned_Brand_Global_Report.pdf)
+
+[Edelman Brand Trust 2019](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/edelman/2019_Edelman_Trust_Barometer_Global_Report.pdf)
+
+[Edelman Brand Trust 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/edelman/2020%20Edelman%20Trust%20Barometer%20Specl%20Rept%20Brand%20Trust%20in%202020-1.pdf)
+
 ## Foods 
 
 [Mintel Potato and Tortilla Chips March 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Potato%20and%20Tortilla%20Chips%20-%20US%20-%20March%202020.pdf)

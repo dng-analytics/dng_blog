@@ -18,6 +18,14 @@ weight: 1
 
 [Deloitte 2021 Global Marketing Trends](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/deloitte/DI_2021-Global-Marketing-Trends_US.pdf)
 
+## Edelman 
+
+[Edelman Brand Trust 2018](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/edelman/2018_Edelman_Earned_Brand_Global_Report.pdf)
+
+[Edelman Brand Trust 2019](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/edelman/2019_Edelman_Trust_Barometer_Global_Report.pdf)
+
+[Edelman Brand Trust 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/edelman/2020%20Edelman%20Trust%20Barometer%20Specl%20Rept%20Brand%20Trust%20in%202020-1.pdf)
+
 ## Ipsos 
 
 [Ipsos Global Trends 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/deloitte/deloitte-2020-millennial-survey.pdf)
