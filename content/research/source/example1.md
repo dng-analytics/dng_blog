@@ -28,6 +28,10 @@ weight: 1
 
 [Mintel Internet Influencers March 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Internet%20Influencers%20-%20US%20-%20March%202020.pdf)
 
+[WARC Advertising in Recession 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/warc/WARC_guide_to_marketing_recession.pdf)
+
+[WARC Advertising in BLM Era 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/warc/WARC_brand_activism_in_blm_era.pdf)
+
 ## Allyship 
 
 [Canvas8 Principles of Allyship 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/canvas8/Canvas8.Principles%20of%20Allyship.pdf)
@@ -116,6 +120,10 @@ weight: 1
 
 [Mintel Marketing to Moms August 2019](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Marketing%20to%20Moms%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20August%202020.pdf)
 
+## Recession 
+
+[WARC Advertising in Recession 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/warc/WARC_guide_to_marketing_recession.pdf)
+
 ## Restaurant 
 
 [Mintel Covid Impact on Restaurants August 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/The%20COVID-19%20Impact%20on%20Foodservice%20Operation%20Recovery%20-%20US%20-%20August%202020.pdf)
@@ -133,6 +141,16 @@ weight: 1
 ## Retail 
 
 [Mintel Changing Retail Fall 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Changing%20Retail%20Landscape%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20September%202020.pdf)
+
+## Social Media 
+
+[WARC Social Strategy 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/warc/WARC_Social_Strategy_Report_2020.pdf)
+
+## Strategy 
+
+[WARC The Future of Strategy 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/warc/WARC_the_Future_of_Strategy_2020.pdf)
+
+[WARC Social Strategy 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/warc/WARC_Social_Strategy_Report_2020.pdf)
 
 ## Trends 
 
