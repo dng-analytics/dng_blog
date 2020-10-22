@@ -1,0 +1,31 @@
+---
+title: The 50 Richest Americans are Worth as Much as the Poorest 165 Miliion
+author: analytics
+date: '2020-10-22'
+slug: the-50-richest-americans-are-worth-as-much-as-the-poorest-165-miliion
+categories:
+  - economy
+tags:
+  - wealth gap
+  - millennials
+  - inequality
+summary: 'A look at U.S. wealth data through the first half of 2020 shows stark disparities by race, age and class.'
+image:
+  preview_only: yes
+---
+
+From [Bloomberg](https://www.bloomberg.com/news/articles/2020-10-08/top-50-richest-people-in-the-us-are-worth-as-much-as-poorest-165-million){target="_blank"}: 
+ 
+## Overall 
+
+> New data from the U.S. Federal Reserve, [a comprehensive look](https://www.federalreserve.gov/releases/z1/dataviz/dfa/distribute/table/#quarter:119;series:Net%20worth;demographic:generation;population:all;units:levels){target="_blank"} at U.S. wealth through the first half of 2020, show stark disparities by race, age and class. While the top 1% of Americans have a combined net worth of $34.2 trillion, the poorest 50% — about 165 million people — hold just $2.08 trillion, or 1.9% of all household wealth.
+
+## Generational 
+
+> The Fed data also show that the Millennial generation, born between 1981 and 1996, control just 4.6% of U.S. wealth even though they are the largest in the workforce with 72 million members. And the share of the pie held by Black Americans is the same size it was 30 years ago.
+
+```{r echo=FALSE, out.width = "80%"}
+    knitr::include_graphics("https://res.cloudinary.com/dn83gtg0l/image/upload/v1603352691/generational_wealth.png")
+```
+
+
