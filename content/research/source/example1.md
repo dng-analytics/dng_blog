@@ -16,6 +16,10 @@ weight: 1
 
 [Mintel Digital Advertising Fall 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Digital%20Advertising%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20September%202020.pdf)
 
+[Mintel Covid Impact on American Life](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/American%20Lifestyles%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20August%202020.pdf)
+
+[Mintel Marketing to Moms August 2019](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Marketing%20to%20Moms%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20August%202020.pdf)
+
 ## Beauty 
 
 [Mintel Gen Z Beauty August 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Gen%20Z%20Beauty%20Consumer%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20August%202020.pdf)
@@ -27,6 +31,10 @@ weight: 1
 ## Millennials 
 
 [Deloitte 2020 Millennial Survey](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/deloitte/deloitte-2020-millennial-survey.pdf)
+
+## Mothers 
+
+[Mintel Marketing to Moms August 2019](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Marketing%20to%20Moms%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20August%202020.pdf)
 
 ## Restaurant / Food 
 
