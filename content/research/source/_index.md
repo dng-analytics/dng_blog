@@ -5,7 +5,7 @@ linktitle: By Source
 menu:
   example:
     name: Research Docs
-    weight: 1
+    weight: 2
 title: By Source
 toc: true
 type: docs
