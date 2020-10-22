@@ -18,7 +18,13 @@ weight: 1
 
 [Accenture Brand Purpose 2019](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/accenture/Accenture-Generation-Purpose-2019.pdf)
 
+[Accenture Covid - A New Brand Purpose April 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/accenture/Accenture-COVID-19-A-Brand-New-Purpose.pdf)
+
+[Accenture - Covid - New Human Truths 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/accenture/Accenture-COVID-19-New-Human-Truths-That-Experiences-Need-To-Address-v2.pdf)
+
 ## BrandZ
+
+[BrandZ Global Top 100 Brands 2019](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/brandz/BrandZ%20US%20Top%20100%20Report%202019.pdf)
 
 [BrandZ Global Top 100 Brands 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/brandz/2020_BrandZ_Global_Top_100_Report.pdf)
 
@@ -39,6 +45,8 @@ weight: 1
 ## Ipsos 
 
 [Ipsos Global Trends 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/deloitte/deloitte-2020-millennial-survey.pdf)
+
+[Ipsos Can Brands Play a Role in Election 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/ipsos/ipsos_brands_election.pdf)
 
 ## Mintel 
 

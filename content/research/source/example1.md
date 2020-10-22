@@ -38,6 +38,10 @@ weight: 1
 
 [Accenture Brand Purpose 2019](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/accenture/Accenture-Generation-Purpose-2019.pdf)
 
+[Accenture Covid - A New Brand Purpose April 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/accenture/Accenture-COVID-19-A-Brand-New-Purpose.pdf)
+
+[Ipsos Can Brands Play a Role in Election 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/ipsos/ipsos_brands_election.pdf)
+
 ## Brand Trust 
 
 [Edelman Brand Trust 2018](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/edelman/2018_Edelman_Earned_Brand_Global_Report.pdf)
@@ -50,8 +54,15 @@ weight: 1
 
 [BrandZ Global Top 100 Brands 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/brandz/2020_BrandZ_Global_Top_100_Report.pdf)
 
+[BrandZ Global Top 100 Brands 2019](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/brandz/BrandZ%20US%20Top%20100%20Report%202019.pdf)
+
 [Mintel Challenger Brands January 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Challenger%20Brands%20-%20US%20-%20January%202020.pdf)
 
+## Covid 
+
+[Accenture Covid - A New Brand Purpose April 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/accenture/Accenture-COVID-19-A-Brand-New-Purpose.pdf)
+
+[Accenture - Covid - New Human Truths 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/accenture/Accenture-COVID-19-New-Human-Truths-That-Experiences-Need-To-Address-v2.pdf)
 
 ## Foods 
 
@@ -103,9 +114,11 @@ weight: 1
 
 ## Trends 
 
-[Ipsos Global Trends 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/deloitte/deloitte-2020-millennial-survey.pdf)
+[Accenture - Covid - New Human Truths 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/accenture/Accenture-COVID-19-New-Human-Truths-That-Experiences-Need-To-Address-v2.pdf)
 
 [Deloitte 2021 Global Marketing Trends](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/deloitte/DI_2021-Global-Marketing-Trends_US.pdf)
+
+[Ipsos Global Trends 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/deloitte/deloitte-2020-millennial-survey.pdf)
 
 [Mintel Fall 2020 Digital Trends](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Digital%20Trends%20-%20Fall%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20October%202020.pdf)
 
