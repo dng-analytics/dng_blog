@@ -1,26 +1,26 @@
 ---
-authors:
-- admin
-- 吳恩達
+title: 'Academic: the website builder for Hugo'
+author: ''
+date: '2020-10-20'
 categories:
-- Demo
-- 教程
-date: "2016-04-20T00:00:00Z"
-draft: false
-featured: false
+  - Demo
+  - 教程
+tags:
+  - Academic
+  - 开源
+authors:
+  - admin
+  - 吳恩達
+draft: no
+featured: no
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
-  focal_point: ""
+  focal_point: ''
   placement: 2
-  preview_only: false
-lastmod: "2019-04-17T00:00:00Z"
-projects: []
+  preview_only: no
+lastmod: '2019-04-17T00:00:00Z'
 subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
 summary: Create a beautifully simple website in under 10 minutes.
-tags:
-- Academic
-- 开源
-title: 'Academic: the website builder for Hugo'
 ---
 
 **Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 _widgets_, _themes_, and _language packs_ included!**
