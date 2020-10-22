@@ -22,3 +22,32 @@ projects: []
 
 
 <p>testing hyperlinks to <a href="https://www.nytimes.com" target="_blank">nytimes</a></p>
+<pre class="r"><code>library(tidyverse)</code></pre>
+<pre><code>## ── Attaching packages ─────────────────────────────────────── tidyverse 1.3.0 ──</code></pre>
+<pre><code>## ✓ ggplot2 3.3.2     ✓ purrr   0.3.4
+## ✓ tibble  3.0.4     ✓ dplyr   1.0.2
+## ✓ tidyr   1.1.2     ✓ stringr 1.4.0
+## ✓ readr   1.4.0     ✓ forcats 0.5.0</code></pre>
+<pre><code>## ── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+## x dplyr::filter() masks stats::filter()
+## x dplyr::lag()    masks stats::lag()</code></pre>
+<pre class="r"><code>tibble(group = c(&#39;Group A&#39;, &#39;Group A&#39;, 
+                 &#39;Group B&#39;, &#39;Group B&#39;, 
+                 &#39;Group C&#39;, &#39;Group C&#39;), 
+       fctr = c(&#39;&lt; Threshold&#39;, &#39;&gt; Threshold&#39;,
+                &#39;&lt; Age&#39;, &#39;&gt; Age&#39;,
+                &#39;&lt; Count&#39;, &#39;&gt; Count&#39;),
+       value = c(.2, .7, .4, .6, .35, .65)) %&gt;%
+  mutate(order = c(1,2,1,2,1,2)) %&gt;%
+  ggplot(aes(x = fctr, y = value, label = scales::percent(value), fill = factor(order))) + 
+  geom_bar(stat = &quot;identity&quot;) + 
+  facet_grid(group ~ ., scales = &quot;free_y&quot;) + 
+  coord_flip(ylim = c(0, .8)) + 
+  hrbrthemes::scale_y_percent() + 
+  scale_fill_manual(values = c(&quot;#b6af06&quot;, &quot;#004d7c&quot;)) + 
+  geom_text(nudge_y = .04) + 
+  theme_twg() + 
+  theme(legend.position = &#39;none&#39;,
+        strip.background =element_rect(fill=&quot;lightgray&quot;, color = NA)) +
+  labs(x = &quot;&quot;, y = &#39;Percent&#39;)</code></pre>
+<p><img src="/post/2020-10-21-what-is-happening/index.en_files/figure-html/unnamed-chunk-1-1.png" width="672" /></p>
