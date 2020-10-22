@@ -50,5 +50,18 @@ weight: 1
 
 [Mintel Challenger Brands January 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Challenger%20Brands%20-%20US%20-%20January%202020.pdf)
 
+[Mintel Foodservice Loyalty June 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Foodservice%20Loyalty%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20June%202020.pdf)
+
+[Mintel Internet Influencers March 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Internet%20Influencers%20-%20US%20-%20March%202020.pdf)
+
+[Mintel Potato and Tortilla Chips March 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Potato%20and%20Tortilla%20Chips%20-%20US%20-%20March%202020.pdf)
+
+[Mintel Healthy Dining Trends March 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Healthy%20Dining%20Trends%20-%20US%20-%20March%202020.pdf)
+
+[Mintel Grocery Retail April 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Grocery%20Retailing%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20April%202020.pdf)
+
+[Mintel Quick Service Restaurants April 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Quick%20Service%20Restaurants%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20April%202020.pdf)
+
+[Mintel Salty Snacks April 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Salty%20Snacks%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20April%202020.pdf)
 
 
