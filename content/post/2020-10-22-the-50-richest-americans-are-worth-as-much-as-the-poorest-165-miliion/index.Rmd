@@ -28,4 +28,6 @@ From [Bloomberg](https://www.bloomberg.com/news/articles/2020-10-08/top-50-riche
     knitr::include_graphics("https://res.cloudinary.com/dn83gtg0l/image/upload/v1603352691/generational_wealth.png")
 ```
 
+## Racial Disparity 
 
+> White Americans hold 83.9% of the nation’s wealth, compared with 4.1% for Black households, the data show. While White Americans’ share of the total has dropped somewhat as the nation becomes more diverse, Black people hold the same percentage as in 1990.
