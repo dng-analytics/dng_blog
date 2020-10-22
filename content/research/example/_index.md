@@ -13,7 +13,9 @@ type: docs
 weight: 1
 ---
 
-## Flexibility
+## Millennials 
+
+[Deloitte 2020 Millennial Survey](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/deloitte-2020-millennial-survey.pdf)
 
 This feature can be used for publishing content such as:
 
