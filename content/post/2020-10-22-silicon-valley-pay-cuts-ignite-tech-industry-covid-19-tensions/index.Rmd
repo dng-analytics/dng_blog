@@ -1,0 +1,29 @@
+---
+title: Silicon Valley Pay Cuts Ignite Tech-Industry Covid-19 Tensions
+author: analytics
+date: '2020-10-22'
+slug: silicon-valley-pay-cuts-ignite-tech-industry-covid-19-tensions
+categories:
+  - economy
+tags:
+  - covid
+  - earnings
+  - net migration
+  - silicon valley
+  - tech
+summary: 'Bay Area staffers move to less-costly locales to work remotely in pandemic,
+  triggering cost-of-living salary reductions and stoking debate'
+image:
+  preview_only: yes
+---
+
+From the [WSJ](https://www.wsj.com/articles/silicon-valley-pay-cuts-ignite-tech-industry-covid-19-tensions-11602435601){target="_blank"}:
+
+> Tech workers fleeing the San Francisco Bay Area to work remotely amid the pandemic are facing a new reality: pay cuts.
+
+> Over the past several months, Covid-19 has shaken traditional notions of where employees can work. In Silicon Valley, which has a relatively high cost of living and an employee base with access to state-of-the-art remote-work tools, companies are devising plans for a future with decentralized staffs. In some cases, changes can include cutting salaries by 15% or more depending on where someone moves.
+
+```{r echo=FALSE, out.width = "60%"}
+    knitr::include_graphics("https://res.cloudinary.com/dn83gtg0l/image/upload/v1603352419/paygrade.png")
+```
+
