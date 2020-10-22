@@ -1,13 +1,12 @@
 ---
 date: "2020-10-22"
 draft: false
-# linktitle: An Example Course
+linktitle: By Source
 menu:
   example:
     name: Research Docs
-    weight: 2
-summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
-title: Overview
+    weight: 1
+title: By Source
 toc: true
 type: docs
 weight: 1
