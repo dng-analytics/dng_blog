@@ -19,5 +19,5 @@ image:
 projects: []
 ---
 
-testing hyperlinks to [nytimes](www.nytimes.com){target="_blank"}
+testing hyperlinks to [nytimes](https://www.nytimes.com){target="_blank"}
 
