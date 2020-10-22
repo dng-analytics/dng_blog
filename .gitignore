@@ -2,3 +2,8 @@
 .Rhistory
 .RData
 .Ruserdata
+public/
+*.Rproj
+*.Rmd
+blogdown
+*.DS_Store
