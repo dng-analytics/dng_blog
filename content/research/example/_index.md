@@ -1,9 +1,16 @@
 ---
 date: "2020-10-22"
 draft: false
+linktitle: An Example Course
+menu:
+  example:
+    name: Research Docs
+    weight: 1
+summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
 title: Overview
 toc: true
 type: docs
+weight: 1
 ---
 
 ## Flexibility
