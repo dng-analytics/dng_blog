@@ -12,6 +12,12 @@ type: docs
 weight: 1
 ---
 
+## Accenture 
+
+[Accenture Brand Purpose 2018](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/accenture/Accenture-Purpose%202018.pdf)
+
+[Accenture Brand Purpose 2019](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/accenture/Accenture-Generation-Purpose-2019.pdf)
+
 ## BrandZ
 
 [BrandZ Global Top 100 Brands 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/brandz/2020_BrandZ_Global_Top_100_Report.pdf)
