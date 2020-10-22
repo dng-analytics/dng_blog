@@ -20,6 +20,8 @@ weight: 1
 
 [Mintel Marketing to Moms August 2019](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Marketing%20to%20Moms%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20August%202020.pdf)
 
+[Mintel Television Advertising August 2019](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Television%20Advertising%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20August%202020.pdf)
+
 ## Beauty 
 
 [Mintel Gen Z Beauty August 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Gen%20Z%20Beauty%20Consumer%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20August%202020.pdf)
@@ -27,6 +29,8 @@ weight: 1
 ## Gen Z 
 
 [Mintel Gen Z Beauty August 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Gen%20Z%20Beauty%20Consumer%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20August%202020.pdf)
+
+[Mintel Gen Z Diners August 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/The%20Gen%20Z%20Diner%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20August%202020.pdf)
 
 ## Millennials 
 
@@ -39,6 +43,8 @@ weight: 1
 ## Restaurant / Food 
 
 [Mintel Covid Impact on Restaurants August 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/The%20COVID-19%20Impact%20on%20Foodservice%20Operation%20Recovery%20-%20US%20-%20August%202020.pdf)
+
+[Mintel Gen Z Diners August 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/The%20Gen%20Z%20Diner%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20August%202020.pdf)
 
 ## Retail 
 
