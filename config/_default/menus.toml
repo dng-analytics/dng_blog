@@ -25,7 +25,7 @@
 
 [[main]]
   name = "Research Docs"
-  url = "research-docs/"
+  url = "research/"
   weight = 40
 
 # [[main]]
