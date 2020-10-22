@@ -18,7 +18,9 @@ From [Quartz](https://qz.com/1915737/instacart-is-surpassing-target-and-kroger-i
 
 > A new report from the investment bank Cowen found that the food delivery company has surpassed Target and Kroger in popularity as a destination for online grocery orders. That puts Instacart, which started in 2012, right behind big retailers Walmart and Amazon.
 
-![#3 on the list](/post/2020-10-21-instacart-is-beating-target-and-kroger/online_grocery.png){width=80% height=60%}
+```{r echo=FALSE,out.width = "80%"}
+    knitr::include_graphics("https://res.cloudinary.com/dn83gtg0l/image/upload/v1603351440/online_grocery.png")
+```
 
 ### Online orders have remained high
 
