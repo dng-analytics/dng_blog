@@ -30,6 +30,6 @@ weight: 1
 
 [Mintel Digital Advertising Fall 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Digital%20Advertising%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20September%202020.pdf)
 
+[Mintel Gen Z Beauty August 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Gen%20Z%20Beauty%20Consumer%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20August%202020.pdf)
 
-
-
+[Mintel Covid Impact on Restaurants August 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/The%20COVID-19%20Impact%20on%20Foodservice%20Operation%20Recovery%20-%20US%20-%20August%202020.pdf)
