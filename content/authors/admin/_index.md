@@ -37,7 +37,7 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
-superuser: true
+superuser: false
 title: Nelson Bighetti
 user_groups:
 - Principal Investigators
