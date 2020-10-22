@@ -14,7 +14,7 @@ weight: 1
 
 ## Deloitte 
 
-[Deloitte 2020 Millennial Survey](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/deloitte-2020-millennial-survey.pdf)
+[Deloitte 2020 Millennial Survey](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/deloitte/deloitte-2020-millennial-survey.pdf)
 
 
 
