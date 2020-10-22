@@ -26,6 +26,10 @@ weight: 1
 
 [Mintel Fall 2020 Digital Trends](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Digital%20Trends%20-%20Fall%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20October%202020.pdf)
 
+[Mintel Changing Retail Fall 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Changing%20Retail%20Landscape%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20September%202020.pdf)
+
+[Mintel Digital Advertising Fall 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Digital%20Advertising%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20September%202020.pdf)
+
 
 
 
