@@ -1,0 +1,47 @@
+---
+title: Let's Try this One more Time
+author: analytics
+date: '2020-10-21'
+slug: let-s-try-this-one-more-time
+categories:
+  - cat
+tags:
+  - tag1
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-10-21T22:39:31-07:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+Testing links [nytimes](https://www.nytimes.com){target="_blank"}
+
+### analytics 
+
+```{r}
+library(tidyverse)
+tibble(group = c('Group A', 'Group A', 
+                 'Group B', 'Group B', 
+                 'Group C', 'Group C'), 
+       fctr = c('< Threshold', '> Threshold',
+                '< Age', '> Age',
+                '< Count', '> Count'),
+       value = c(.2, .7, .4, .6, .35, .65)) %>%
+  mutate(order = c(1,2,1,2,1,2)) %>%
+  ggplot(aes(x = fctr, y = value, label = scales::percent(value), fill = factor(order))) + 
+  geom_bar(stat = "identity") + 
+  facet_grid(group ~ ., scales = "free_y") + 
+  coord_flip(ylim = c(0, .8)) + 
+  hrbrthemes::scale_y_percent() + 
+  scale_fill_manual(values = c("#b6af06", "#004d7c")) + 
+  geom_text(nudge_y = .04) + 
+  theme_twg() + 
+  theme(legend.position = 'none',
+        strip.background =element_rect(fill="lightgray", color = NA)) +
+  labs(x = "", y = 'Percent')
+```
