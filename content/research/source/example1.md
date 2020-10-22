@@ -28,6 +28,22 @@ weight: 1
 
 [Mintel Internet Influencers March 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Internet%20Influencers%20-%20US%20-%20March%202020.pdf)
 
+## Allyship 
+
+[Canvas8 Principles of Allyship 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/canvas8/Canvas8.Principles%20of%20Allyship.pdf)
+
+## Automotive 
+
+[J.D. Power PIN September 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/jdpower/2020%20September%20PIN%20Industry%20Update.pdf)
+
+[J.D. Power PIN August 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/jdpower/2020%20Aug%20PIN%20Industry%20Update.pdf)
+
+[J.D. Power PIN July 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/jdpower/2020%20July%20PIN%20Industry%20Update.pdf)
+
+[J.D. Power PIN June 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/jdpower/2020%20June%20PIN%20Industry%20Update.pdf)
+
+[J.D. Power PIN May 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/jdpower/2020%20May%20PIN%20Industry%20Update.pdf)
+
 ## Beauty 
 
 [Mintel Gen Z Beauty August 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Gen%20Z%20Beauty%20Consumer%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20August%202020.pdf)
@@ -83,6 +99,12 @@ weight: 1
 ## Grocery
 
 [Mintel Grocery Retail April 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Grocery%20Retailing%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20April%202020.pdf)
+
+## Loyalty 
+
+[Bond Loyalty Report 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/bond/Bond%20Loyalty%20Report%202020_US%20ExecSummary.pdf)
+
+[Bond Loyalty Report 2019](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/bond/Bond_US%20TLR19%20Exec%20Summary%20Launch%20Edition.pdf)
 
 ## Millennials 
 

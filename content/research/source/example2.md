@@ -22,11 +22,21 @@ weight: 1
 
 [Accenture - Covid - New Human Truths 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/accenture/Accenture-COVID-19-New-Human-Truths-That-Experiences-Need-To-Address-v2.pdf)
 
+## Bond 
+
+[Bond Loyalty Report 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/bond/Bond%20Loyalty%20Report%202020_US%20ExecSummary.pdf)
+
+[Bond Loyalty Report 2019](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/bond/Bond_US%20TLR19%20Exec%20Summary%20Launch%20Edition.pdf)
+
 ## BrandZ
 
 [BrandZ Global Top 100 Brands 2019](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/brandz/BrandZ%20US%20Top%20100%20Report%202019.pdf)
 
 [BrandZ Global Top 100 Brands 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/brandz/2020_BrandZ_Global_Top_100_Report.pdf)
+
+## Canvas8
+
+[Canvas8 Principles of Allyship 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/canvas8/Canvas8.Principles%20of%20Allyship.pdf)
 
 ## Deloitte 
 
@@ -47,6 +57,18 @@ weight: 1
 [Ipsos Global Trends 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/deloitte/deloitte-2020-millennial-survey.pdf)
 
 [Ipsos Can Brands Play a Role in Election 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/ipsos/ipsos_brands_election.pdf)
+
+## J.D. Power
+
+[J.D. Power PIN September 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/jdpower/2020%20September%20PIN%20Industry%20Update.pdf)
+
+[J.D. Power PIN August 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/jdpower/2020%20Aug%20PIN%20Industry%20Update.pdf)
+
+[J.D. Power PIN July 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/jdpower/2020%20July%20PIN%20Industry%20Update.pdf)
+
+[J.D. Power PIN June 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/jdpower/2020%20June%20PIN%20Industry%20Update.pdf)
+
+[J.D. Power PIN May 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/jdpower/2020%20May%20PIN%20Industry%20Update.pdf)
 
 ## Mintel 
 
