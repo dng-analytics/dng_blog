@@ -4,8 +4,8 @@ draft: false
 linktitle: Tips 1-2
 menu:
   example:
-    parent: Example Topic
-    weight: 1
+    parent: Research Docs
+    weight: 2
 title: Example Page 1
 toc: true
 type: docs
