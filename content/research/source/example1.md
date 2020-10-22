@@ -34,6 +34,8 @@ weight: 1
 
 ## Brands 
 
+[BrandZ Global Top 100 Brands 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/brandz/2020_BrandZ_Global_Top_100_Report.pdf)
+
 [Mintel Challenger Brands January 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Challenger%20Brands%20-%20US%20-%20January%202020.pdf)
 
 ## Brand Trust 

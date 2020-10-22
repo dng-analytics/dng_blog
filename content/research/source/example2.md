@@ -12,6 +12,10 @@ type: docs
 weight: 1
 ---
 
+## BrandZ
+
+[BrandZ Global Top 100 Brands 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/brandz/2020_BrandZ_Global_Top_100_Report.pdf)
+
 ## Deloitte 
 
 [Deloitte 2020 Millennial Survey](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/deloitte/deloitte-2020-millennial-survey.pdf)
