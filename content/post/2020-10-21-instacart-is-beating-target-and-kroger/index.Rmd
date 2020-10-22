@@ -20,7 +20,7 @@ From [Quartz](https://qz.com/1915737/instacart-is-surpassing-target-and-kroger-i
 
 <br> 
 
-![#3 on the list](/post/2020-10-21-instacart-is-beating-target-and-kroger/online_grocery.png){width=80% height=60%}
+![#3 on the list](/post/2020-10-21-instacart-is-beating-target-and-kroger/index_files/online_grocery.png){width=80% height=60%}
 
 ### Online orders have remained high
 
