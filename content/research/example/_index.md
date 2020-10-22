@@ -5,7 +5,7 @@ draft: false
 menu:
   example:
     name: Research Docs
-    weight: 1
+    weight: 2
 summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
 title: Overview
 toc: true
