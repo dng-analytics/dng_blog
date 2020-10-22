@@ -110,6 +110,8 @@ weight: 1
 
 [Bond Loyalty Report 2019](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/bond/Bond_US%20TLR19%20Exec%20Summary%20Launch%20Edition.pdf)
 
+[KPMG Truth About Customer Loyalty 2019](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/kpmg/kpmg-customer-loyalty-report.pdf)
+
 ## Millennials 
 
 [Deloitte 2020 Millennial Survey](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/deloitte/deloitte-2020-millennial-survey.pdf)

@@ -70,6 +70,10 @@ weight: 1
 
 [J.D. Power PIN May 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/jdpower/2020%20May%20PIN%20Industry%20Update.pdf)
 
+## KPMG 
+
+[KPMG Truth About Customer Loyalty 2019](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/kpmg/kpmg-customer-loyalty-report.pdf)
+
 ## Mintel 
 
 [Mintel Fall 2020 Digital Trends](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Digital%20Trends%20-%20Fall%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20October%202020.pdf)
