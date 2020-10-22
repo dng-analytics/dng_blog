@@ -9,7 +9,7 @@ tags:
   - covid
   - delivery
   - instacart
-summary: ''
+summary: 'It’s been a good year for groceries, and in particular for Instacart'
 image:
   preview_only: yes
 ---
