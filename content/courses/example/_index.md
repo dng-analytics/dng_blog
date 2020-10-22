@@ -5,7 +5,7 @@ lastmod: "2018-09-09T00:00:00Z"
 linktitle: An Example Course
 menu:
   example:
-    name: Overview
+    name: Research Docs
     weight: 1
 summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
 title: Overview
