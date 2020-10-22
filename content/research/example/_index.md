@@ -1,7 +1,7 @@
 ---
 date: "2020-10-22"
 draft: false
-# linktitle: An Example Course
+linktitle: An Example Course
 menu:
   example:
     name: Research Docs
