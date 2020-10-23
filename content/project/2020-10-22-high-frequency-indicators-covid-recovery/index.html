@@ -15,40 +15,61 @@ tags:
 summary: 'A weekly look at various indicators of our recovery'
 image:
   preview_only: yes
+output:
+  blogdown::html_page:
+    toc: yes
 ---
 
 <script src="index_files/htmlwidgets/htmlwidgets.js"></script>
 <script src="index_files/pymjs/pym.v1.js"></script>
 <script src="index_files/widgetframe-binding/widgetframe.js"></script>
 
+<div id="TOC">
+<ul>
+<li><a href="#open-table">Open Table</a></li>
+<li><a href="#apple-mobility-data">Apple Mobility Data</a></li>
+<li><a href="#time-spent-away-from-home">Time Spent Away from Home</a></li>
+<li><a href="#tsa-traffic">TSA Traffic</a></li>
+<li><a href="#box-office-data">Box Office Data</a></li>
+<li><a href="#total-us-spending">Total US Spending</a></li>
+<li><a href="#spending-by-income-level">Spending by Income Level</a></li>
+</ul>
+</div>
 
+<div id="open-table" class="section level2">
+<h2>Open Table</h2>
+<p>According to <a href="https://www.opentable.com/state-of-industry" target="_blank">Open Table</a> data of seated diners at restaurants, CA is -36% below where it was last year. Overall, the United States is -35% below baseline.</p>
+<p>The graph below shows the 7-day moving average of seated covers.</p>
+<div id="htmlwidget-1" style="width:100%;height:450px;" class="widgetframe html-widget"></div>
+<script type="application/json" data-for="htmlwidget-1">{"x":{"url":"index_files/figure-html//widgets/widget_unnamed-chunk-2.html","options":{"xdomain":"*","allowfullscreen":false,"lazyload":false}},"evals":[],"jsHooks":[]}</script>
+</div>
 <div id="apple-mobility-data" class="section level2">
 <h2>Apple Mobility Data</h2>
-<p>Apple data is determined by index of people seeking directions through the Apple Maps app (driving, transit, walking). This is a 7-day moving average of demand for directions.</p>
-<p>As of 2020-10-19 the 7-day moving average for:</p>
+<p>Apple <a href="https://covid19.apple.com/mobility" target="_blank">mobility data</a> is an index based on the number of people seeking directions through the Apple Maps app (driving, transit, walking). This is a 7-day moving average of demand for directions.</p>
+<p>As of October 19 the 7-day moving average for:</p>
 <ul>
 <li>Driving directions was 127</li>
 <li>Walking directions was 122</li>
 <li>Transit directions was 56</li>
 </ul>
 <p>The baseline comparison index is set to 100 and is based on the week of January 13, 2020.</p>
-<div id="htmlwidget-1" style="width:100%;height:415.296px;" class="widgetframe html-widget"></div>
-<script type="application/json" data-for="htmlwidget-1">{"x":{"url":"index_files/figure-html//widgets/widget_unnamed-chunk-2.html","options":{"xdomain":"*","allowfullscreen":false,"lazyload":false}},"evals":[],"jsHooks":[]}</script>
+<div id="htmlwidget-2" style="width:100%;height:450px;" class="widgetframe html-widget"></div>
+<script type="application/json" data-for="htmlwidget-2">{"x":{"url":"index_files/figure-html//widgets/widget_unnamed-chunk-4.html","options":{"xdomain":"*","allowfullscreen":false,"lazyload":false}},"evals":[],"jsHooks":[]}</script>
 </div>
 <div id="time-spent-away-from-home" class="section level2">
 <h2>Time Spent Away from Home</h2>
-<p>Google has been tracking the GPS locations of citizens to get a sense of how frequently people are visiting certain locations. Below is a plot a 7-day average of how frequently people have been away of their homes. The data is indexed to Jan 3 - Feb 6, 2020.</p>
-<p>As of 2020-10-13, the 7-day average for time Americans spend away from home is -8.0% below the baseline index.</p>
-<div id="htmlwidget-2" style="width:100%;height:415.296px;" class="widgetframe html-widget"></div>
-<script type="application/json" data-for="htmlwidget-2">{"x":{"url":"index_files/figure-html//widgets/widget_unnamed-chunk-4.html","options":{"xdomain":"*","allowfullscreen":false,"lazyload":false}},"evals":[],"jsHooks":[]}</script>
+<p>Google has been tracking the <a href="https://www.google.com/covid19/mobility/" target="_blank">GPS locations</a> of citizens to get a sense of how frequently people are visiting certain locations. Below is a plot a 7-day average of how frequently people have been away of their homes. The data is indexed to Jan 3 - Feb 6, 2020.</p>
+<p>The 7-day average for time Americans spend away from home is -8.0% below the baseline index.</p>
+<div id="htmlwidget-3" style="width:100%;height:450px;" class="widgetframe html-widget"></div>
+<script type="application/json" data-for="htmlwidget-3">{"x":{"url":"index_files/figure-html//widgets/widget_unnamed-chunk-6.html","options":{"xdomain":"*","allowfullscreen":false,"lazyload":false}},"evals":[],"jsHooks":[]}</script>
 </div>
 <div id="tsa-traffic" class="section level2">
 <h2>TSA Traffic</h2>
-<p>This is a 7 day average of the traffic moving through TSA checkpoints throughout the United States. 2020 totals are compared to totals from 2019.</p>
-<p>As of 2020-10-19 the 7-day average of travelers moving through TSA checkpoints was 857,906.</p>
-<p>Daily numbers are below:</p>
+<p>This is a 7 day average of the traffic moving through <a href="https://www.tsa.gov/coronavirus/passenger-throughput" target="_blank">TSA checkpoints</a> throughout the United States. 2020 totals are compared to totals from 2019.</p>
+<p>As of October 19 the 7-day average of travelers moving through TSA checkpoints was 857,906.</p>
+<p>Daily numbers are below for the past week are below:</p>
 <table>
-<caption><span id="tab:unnamed-chunk-6">Table 1: </span>Daily Traffic through TSA Checkpoints, Last 7 Days</caption>
+<caption><span id="tab:unnamed-chunk-8">Table 1: </span>Daily Traffic through TSA Checkpoints, Last 7 Days</caption>
 <thead>
 <tr class="header">
 <th align="left">Date</th>
@@ -102,6 +123,25 @@ image:
 </tr>
 </tbody>
 </table>
-<div id="htmlwidget-3" style="width:100%;height:415.296px;" class="widgetframe html-widget"></div>
-<script type="application/json" data-for="htmlwidget-3">{"x":{"url":"index_files/figure-html//widgets/widget_unnamed-chunk-7.html","options":{"xdomain":"*","allowfullscreen":false,"lazyload":false}},"evals":[],"jsHooks":[]}</script>
+<div id="htmlwidget-4" style="width:100%;height:450px;" class="widgetframe html-widget"></div>
+<script type="application/json" data-for="htmlwidget-4">{"x":{"url":"index_files/figure-html//widgets/widget_unnamed-chunk-9.html","options":{"xdomain":"*","allowfullscreen":false,"lazyload":false}},"evals":[],"jsHooks":[]}</script>
+</div>
+<div id="box-office-data" class="section level2">
+<h2>Box Office Data</h2>
+<p>Obviously, we know that there isn’t much interest in going to the movies, and studios have limited their slate of movies, but we can think of the Box Office data as a heuristic for when people will feel comfortable going into indoor spaces again, post-covid.</p>
+<p>For the week of Oct 16-22 the U.S. Box Office total was $15,528,171</p>
+<div id="htmlwidget-5" style="width:100%;height:450px;" class="widgetframe html-widget"></div>
+<script type="application/json" data-for="htmlwidget-5">{"x":{"url":"index_files/figure-html//widgets/widget_unnamed-chunk-10.html","options":{"xdomain":"*","allowfullscreen":false,"lazyload":false}},"evals":[],"jsHooks":[]}</script>
+</div>
+<div id="total-us-spending" class="section level2">
+<h2>Total US Spending</h2>
+<p>U.S. spending data comes in at a bit of a lag, so the latest day we have data for is October 11. Spending is -4% below normal.</p>
+<div id="htmlwidget-6" style="width:100%;height:450px;" class="widgetframe html-widget"></div>
+<script type="application/json" data-for="htmlwidget-6">{"x":{"url":"index_files/figure-html//widgets/widget_unnamed-chunk-12.html","options":{"xdomain":"*","allowfullscreen":false,"lazyload":false}},"evals":[],"jsHooks":[]}</script>
+</div>
+<div id="spending-by-income-level" class="section level2">
+<h2>Spending by Income Level</h2>
+<p>Approximately 70% of US GDP is driven by consumer spending, and a lot of that consumer spending is normally driven by households in the highest income brackets. But we are seeing strong splits in terms of spending by income levels – as of October 11 spending by the highest income zip codes is still -7% below where it was prior to the pandemic.</p>
+<div id="htmlwidget-7" style="width:100%;height:450px;" class="widgetframe html-widget"></div>
+<script type="application/json" data-for="htmlwidget-7">{"x":{"url":"index_files/figure-html//widgets/widget_unnamed-chunk-14.html","options":{"xdomain":"*","allowfullscreen":false,"lazyload":false}},"evals":[],"jsHooks":[]}</script>
 </div>
