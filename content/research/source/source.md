@@ -22,9 +22,13 @@ weight: 1
 
 [Accenture - Covid - New Human Truths 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/accenture/Accenture-COVID-19-New-Human-Truths-That-Experiences-Need-To-Address-v2.pdf)
 
-[Accenture-Fjord Trends 2019](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/accenture/Fjords%202019%20Trends.pdf){target="_blank"}
+[Accenture-Fjord Trends 2019](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/accenture/Fjords%202019%20Trends.pdf)
 
-[Accenture-Fjord Trends 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/accenture/Accenture-Fjord-Trends-2020-Report.pdf){target="_blank"}
+[Accenture-Fjord Trends 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/accenture/Accenture-Fjord-Trends-2020-Report.pdf)
+
+## Ad Age 
+
+[Gen Z Preparing to Face the Future](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/ad_age/UNiDAYS%20Gen%20Z%20Preparing%20to%20Face%20the%20Future.pdf)
 
 ## Bond 
 
@@ -56,6 +60,12 @@ weight: 1
 
 [Edelman Brand Trust 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/edelman/2020%20Edelman%20Trust%20Barometer%20Specl%20Rept%20Brand%20Trust%20in%202020-1.pdf)
 
+## GWI 
+
+[Global Web Index Trends 2019](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/gwi/Global%20Web%202019%20Trends.pdf)
+
+[Global Web Index Trends 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/gwi/Connecting_the_dots.pdf)
+
 ## Ipsos 
 
 [Ipsos Global Trends 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/deloitte/deloitte-2020-millennial-survey.pdf)
@@ -76,9 +86,15 @@ weight: 1
 
 ## JWT 
 
-[JWT Innovation Group Future 100 2019](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/jwt/Future%20100_2019.pdf){target="_blank"}
+[JWT Innovation Group Future 100 2019](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/jwt/Future%20100_2019.pdf)
 
-[JWT Innovation Group Future 100 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/jwt/Future100_2020.pdf){target="_blank"}
+[JWT Innovation Group Future 100 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/jwt/Future100_2020.pdf)
+
+[JWT Innovation Group New Adulthood](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/jwt/THE%20NEW%20ADULTHOOD.pdf)
+
+## Kelton 
+
+[Kelton Gen Z Doesn't Need Your Brand](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/kelton/genz.pdf)
 
 ## KPMG 
 
@@ -126,9 +142,19 @@ weight: 1
 
 [Mintel Salty Snacks April 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Salty%20Snacks%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20April%202020.pdf)
 
+## Planning Dirty 
+
+[Planning Dirty Marketing Podcast Megalist](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/planning_dirty/Marketing%20Podcast%20MegaList.pdf)
+
+## Sparks & Honey 
+
+[Sparks & Honey Trends 2019](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/sparks_honey/Sparks%20&%20Honey%202019%20Trends.pdf)
+
+[Sparks & Honey Future of Giving 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/sparks_honey/2020_MFF_s&h_Future+of+Giving_2020.pdf)
+
 ## TBWA 
 
-[TBWA Edges 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/tbwa/Edges%20Glossary%202020_Final.pdf){target="_blank"}
+[TBWA Edges 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/tbwa/Edges%20Glossary%202020_Final.pdf)
 
 ## WARC 
 

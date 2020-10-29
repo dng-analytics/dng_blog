@@ -28,6 +28,8 @@ weight: 1
 
 [Mintel Internet Influencers March 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Internet%20Influencers%20-%20US%20-%20March%202020.pdf)
 
+[Planning Dirty Marketing Podcast Megalist](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/planning_dirty/Marketing%20Podcast%20MegaList.pdf)
+
 [WARC Advertising in Recession 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/warc/WARC_guide_to_marketing_recession.pdf)
 
 [WARC Advertising in BLM Era 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/warc/WARC_brand_activism_in_blm_era.pdf)
@@ -90,16 +92,29 @@ weight: 1
 
 [Mintel Salty Snacks April 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Salty%20Snacks%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20April%202020.pdf)
 
-## Gen X 
+## Generations 
+
+[JWT Innovation Group New Adulthood](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/jwt/THE%20NEW%20ADULTHOOD.pdf)
+
+### Gen X 
 
 [Mintel Marketing to Gen X July 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Marketing%20to%20Gen%20X%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20July%202020.pdf)
 
-## Gen Z 
+### Gen Z 
+
+[Gen Z Preparing to Face the Future](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/ad_age/UNiDAYS%20Gen%20Z%20Preparing%20to%20Face%20the%20Future.pdf)
+
+[Kelton Gen Z Doesn't Need Your Brand](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/kelton/genz.pdf)
 
 [Mintel Gen Z Beauty August 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Gen%20Z%20Beauty%20Consumer%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20August%202020.pdf)
 
 [Mintel Gen Z Diners August 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/The%20Gen%20Z%20Diner%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20August%202020.pdf)
 
+### Millennials 
+
+[Deloitte 2020 Millennial Survey](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/deloitte/deloitte-2020-millennial-survey.pdf)
+
+[Mintel Marketing to Millennials June 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Marketing%20to%20Millennials%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20June%202020.pdf)
 ## Grocery
 
 [Mintel Grocery Retail April 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Grocery%20Retailing%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20April%202020.pdf)
@@ -112,15 +127,13 @@ weight: 1
 
 [KPMG Truth About Customer Loyalty 2019](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/kpmg/kpmg-customer-loyalty-report.pdf)
 
-## Millennials 
-
-[Deloitte 2020 Millennial Survey](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/deloitte/deloitte-2020-millennial-survey.pdf)
-
-[Mintel Marketing to Millennials June 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Marketing%20to%20Millennials%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20June%202020.pdf)
-
 ## Mothers 
 
 [Mintel Marketing to Moms August 2019](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Marketing%20to%20Moms%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20August%202020.pdf)
+
+## Podcasts 
+
+[Planning Dirty Marketing Podcast Megalist](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/planning_dirty/Marketing%20Podcast%20MegaList.pdf)
 
 ## Recession 
 
@@ -160,18 +173,26 @@ weight: 1
 
 [Deloitte 2021 Global Marketing Trends](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/deloitte/DI_2021-Global-Marketing-Trends_US.pdf)
 
-[Accenture-Fjord Trends 2019](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/accenture/Fjords%202019%20Trends.pdf){target="_blank"}
+[Accenture-Fjord Trends 2019](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/accenture/Fjords%202019%20Trends.pdf)
 
-[Accenture-Fjord Trends 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/accenture/Accenture-Fjord-Trends-2020-Report.pdf){target="_blank"}
+[Accenture-Fjord Trends 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/accenture/Accenture-Fjord-Trends-2020-Report.pdf)
+
+[Global Web Index Trends 2019](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/gwi/Global%20Web%202019%20Trends.pdf)
+
+[Global Web Index Trends 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/gwi/Connecting_the_dots.pdf)
 
 [Ipsos Global Trends 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/deloitte/deloitte-2020-millennial-survey.pdf)
 
-[JWT Innovation Group Future 100 2019](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/jwt/Future%20100_2019.pdf){target="_blank"}
+[JWT Innovation Group Future 100 2019](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/jwt/Future%20100_2019.pdf)
 
-[JWT Innovation Group Future 100 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/jwt/Future100_2020.pdf){target="_blank"}
+[JWT Innovation Group Future 100 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/jwt/Future100_2020.pdf)
 
 [Mintel Fall 2020 Digital Trends](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Digital%20Trends%20-%20Fall%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20October%202020.pdf)
 
-[TBWA Edges 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/tbwa/Edges%20Glossary%202020_Final.pdf){target="_blank"}
+[Sparks & Honey Trends 2019](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/sparks_honey/Sparks%20&%20Honey%202019%20Trends.pdf)
+
+[Sparks & Honey Future of Giving 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/sparks_honey/2020_MFF_s&h_Future+of+Giving_2020.pdf)
+
+[TBWA Edges 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/tbwa/Edges%20Glossary%202020_Final.pdf)
 
 
