@@ -22,6 +22,10 @@ weight: 1
 
 [Accenture - Covid - New Human Truths 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/accenture/Accenture-COVID-19-New-Human-Truths-That-Experiences-Need-To-Address-v2.pdf)
 
+[Accenture-Fjord Trends 2019](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/accenture/Fjords%202019%20Trends.pdf){target="_blank"}
+
+[Accenture-Fjord Trends 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/accenture/Accenture-Fjord-Trends-2020-Report.pdf){target="_blank"}
+
 ## Bond 
 
 [Bond Loyalty Report 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/bond/Bond%20Loyalty%20Report%202020_US%20ExecSummary.pdf)
@@ -70,6 +74,12 @@ weight: 1
 
 [J.D. Power PIN May 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/jdpower/2020%20May%20PIN%20Industry%20Update.pdf)
 
+## JWT 
+
+[JWT Innovation Group Future 100 2019](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/jwt/Future%20100_2019.pdf){target="_blank"}
+
+[JWT Innovation Group Future 100 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/jwt/Future100_2020.pdf){target="_blank"}
+
 ## KPMG 
 
 [KPMG Truth About Customer Loyalty 2019](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/kpmg/kpmg-customer-loyalty-report.pdf)
@@ -115,6 +125,10 @@ weight: 1
 [Mintel Quick Service Restaurants April 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Quick%20Service%20Restaurants%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20April%202020.pdf)
 
 [Mintel Salty Snacks April 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Salty%20Snacks%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20April%202020.pdf)
+
+## TBWA 
+
+[TBWA Edges 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/tbwa/Edges%20Glossary%202020_Final.pdf){target="_blank"}
 
 ## WARC 
 

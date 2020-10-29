@@ -154,16 +154,24 @@ weight: 1
 
 [WARC Social Strategy 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/warc/WARC_Social_Strategy_Report_2020.pdf)
 
-## Trends 
+## Trends/Culture 
 
 [Accenture - Covid - New Human Truths 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/accenture/Accenture-COVID-19-New-Human-Truths-That-Experiences-Need-To-Address-v2.pdf)
 
 [Deloitte 2021 Global Marketing Trends](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/deloitte/DI_2021-Global-Marketing-Trends_US.pdf)
 
+[Accenture-Fjord Trends 2019](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/accenture/Fjords%202019%20Trends.pdf){target="_blank"}
+
+[Accenture-Fjord Trends 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/accenture/Accenture-Fjord-Trends-2020-Report.pdf){target="_blank"}
+
 [Ipsos Global Trends 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/deloitte/deloitte-2020-millennial-survey.pdf)
+
+[JWT Innovation Group Future 100 2019](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/jwt/Future%20100_2019.pdf){target="_blank"}
+
+[JWT Innovation Group Future 100 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/jwt/Future100_2020.pdf){target="_blank"}
 
 [Mintel Fall 2020 Digital Trends](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Digital%20Trends%20-%20Fall%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20October%202020.pdf)
 
-
+[TBWA Edges 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/tbwa/Edges%20Glossary%202020_Final.pdf){target="_blank"}
 
 
