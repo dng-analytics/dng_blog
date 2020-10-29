@@ -126,6 +126,8 @@ weight: 1
 
 [Mintel Marketing to Millennials June 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Marketing%20to%20Millennials%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20June%202020.pdf)
 
+[Mintel Marketing to Seniors July 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Marketing%20to%20Seniors%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20July%202020.pdf)
+
 [Mintel Challenger Brands January 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Challenger%20Brands%20-%20US%20-%20January%202020.pdf)
 
 [Mintel Foodservice Loyalty June 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Foodservice%20Loyalty%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20June%202020.pdf)

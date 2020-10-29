@@ -26,6 +26,8 @@ weight: 1
 
 [Mintel Marketing to Millennials June 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Marketing%20to%20Millennials%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20June%202020.pdf)
 
+[Mintel Marketing to Seniors July 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Marketing%20to%20Seniors%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20July%202020.pdf)
+
 [Mintel Internet Influencers March 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Internet%20Influencers%20-%20US%20-%20March%202020.pdf)
 
 [Planning Dirty Marketing Podcast Megalist](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/planning_dirty/Marketing%20Podcast%20MegaList.pdf)
@@ -115,6 +117,11 @@ weight: 1
 [Deloitte 2020 Millennial Survey](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/deloitte/deloitte-2020-millennial-survey.pdf)
 
 [Mintel Marketing to Millennials June 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Marketing%20to%20Millennials%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20June%202020.pdf)
+
+### Seniors 
+
+[Mintel Marketing to Seniors July 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Marketing%20to%20Seniors%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20July%202020.pdf)
+
 ## Grocery
 
 [Mintel Grocery Retail April 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Grocery%20Retailing%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20April%202020.pdf)
