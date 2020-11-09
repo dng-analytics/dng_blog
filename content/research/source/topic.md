@@ -170,6 +170,8 @@ weight: 1
 
 ## Strategy 
 
+[Martin The Visibility Brief](https://dng.sharepoint.com/:b:/s/KnowledgeCenter2/ETQ2Hy3KPIRGtqCsmOPrlnUBargHt44YIweosTwbza0hXQ?e=quV1yM)
+
 [WARC The Future of Strategy 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/warc/WARC_the_Future_of_Strategy_2020.pdf)
 
 [WARC Social Strategy 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/warc/WARC_Social_Strategy_Report_2020.pdf)

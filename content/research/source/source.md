@@ -100,6 +100,10 @@ weight: 1
 
 [KPMG Truth About Customer Loyalty 2019](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/kpmg/kpmg-customer-loyalty-report.pdf)
 
+## Martin 
+
+[Martin The Visibility Brief](https://dng.sharepoint.com/:b:/s/KnowledgeCenter2/ETQ2Hy3KPIRGtqCsmOPrlnUBargHt44YIweosTwbza0hXQ?e=quV1yM)
+
 ## Mintel 
 
 [Mintel Fall 2020 Digital Trends](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Digital%20Trends%20-%20Fall%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20October%202020.pdf)
