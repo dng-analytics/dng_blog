@@ -36,6 +36,8 @@ weight: 1
 
 [WARC Advertising in BLM Era 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/warc/WARC_brand_activism_in_blm_era.pdf)
 
+[WARC The Marketer's Toolkit 2021](https://dng.sharepoint.com/:b:/s/KnowledgeCenter2/EfmMIwbHpchKlttloTk3HakBhT7Rt6PFG2ZXR--iWNDMVg?e=FHN1pg)
+
 ## Allyship 
 
 [Canvas8 Principles of Allyship 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/canvas8/Canvas8.Principles%20of%20Allyship.pdf)
@@ -88,11 +90,17 @@ weight: 1
 
 [Accenture - Covid - New Human Truths 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/accenture/Accenture-COVID-19-New-Human-Truths-That-Experiences-Need-To-Address-v2.pdf)
 
+## Dads 
+
+[Mintel Marketing to Dads November 2020](https://dng.sharepoint.com/:b:/s/KnowledgeCenter2/EaHoRm2fekRLpUVD4kwVfjsBv9bz3zm3wb7suW8TY_jSLw?e=1OMhTl)
+
 ## Foods 
 
 [Mintel Potato and Tortilla Chips March 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Potato%20and%20Tortilla%20Chips%20-%20US%20-%20March%202020.pdf)
 
 [Mintel Salty Snacks April 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Salty%20Snacks%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20April%202020.pdf)
+
+[Mintel Burger Trends November 2020](https://dng.sharepoint.com/:b:/s/KnowledgeCenter2/EYdVmm7BvEBAmzwtcE0Vgt8Bzv_WIytsOsJCl12MFLMjuw?e=B5CyR4)
 
 ## Generations 
 
@@ -133,6 +141,8 @@ weight: 1
 [Bond Loyalty Report 2019](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/bond/Bond_US%20TLR19%20Exec%20Summary%20Launch%20Edition.pdf)
 
 [KPMG Truth About Customer Loyalty 2019](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/kpmg/kpmg-customer-loyalty-report.pdf)
+
+[Mintel Loyalty Report Fall 2020](https://dng.sharepoint.com/:b:/s/KnowledgeCenter2/ET1lhQZe5NdNqqjxSqfIorUBc1Qyjiu_QT68hfUuGPPOQA?e=hkV5hh)
 
 ## Mothers 
 
@@ -185,6 +195,8 @@ weight: 1
 [Accenture-Fjord Trends 2019](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/accenture/Fjords%202019%20Trends.pdf)
 
 [Accenture-Fjord Trends 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/accenture/Accenture-Fjord-Trends-2020-Report.pdf)
+
+[Foresight Factory Trends 2021 Preview](https://dng.sharepoint.com/:b:/s/KnowledgeCenter2/Ed2_ChhNXNNLrVDzBlpIiJoBe8MkjBSn5KyCkt5bhbYN5g?e=Cfd3zI)
 
 [Global Web Index Trends 2019](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/gwi/Global%20Web%202019%20Trends.pdf)
 

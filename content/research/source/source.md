@@ -60,6 +60,10 @@ weight: 1
 
 [Edelman Brand Trust 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/edelman/2020%20Edelman%20Trust%20Barometer%20Specl%20Rept%20Brand%20Trust%20in%202020-1.pdf)
 
+## Foresight Factory
+
+[Foresight Factory Trends 2021 Preview](https://dng.sharepoint.com/:b:/s/KnowledgeCenter2/Ed2_ChhNXNNLrVDzBlpIiJoBe8MkjBSn5KyCkt5bhbYN5g?e=Cfd3zI)
+
 ## GWI 
 
 [Global Web Index Trends 2019](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/gwi/Global%20Web%202019%20Trends.pdf)
@@ -105,6 +109,12 @@ weight: 1
 [Martin The Visibility Brief](https://dng.sharepoint.com/:b:/s/KnowledgeCenter2/ETQ2Hy3KPIRGtqCsmOPrlnUBargHt44YIweosTwbza0hXQ?e=quV1yM)
 
 ## Mintel 
+
+[Mintel Burger Trends November 2020](https://dng.sharepoint.com/:b:/s/KnowledgeCenter2/EYdVmm7BvEBAmzwtcE0Vgt8Bzv_WIytsOsJCl12MFLMjuw?e=B5CyR4)
+
+[Mintel Marketing to Dads November 2020](https://dng.sharepoint.com/:b:/s/KnowledgeCenter2/EaHoRm2fekRLpUVD4kwVfjsBv9bz3zm3wb7suW8TY_jSLw?e=1OMhTl)
+
+[Mintel Loyalty Programs Fall 2020](https://dng.sharepoint.com/:b:/s/KnowledgeCenter2/ET1lhQZe5NdNqqjxSqfIorUBc1Qyjiu_QT68hfUuGPPOQA?e=XaNAFh)
 
 [Mintel Fall 2020 Digital Trends](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Digital%20Trends%20-%20Fall%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20October%202020.pdf)
 
@@ -169,5 +179,7 @@ weight: 1
 [WARC Advertising in BLM Era 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/warc/WARC_brand_activism_in_blm_era.pdf)
 
 [WARC The Future of Strategy 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/warc/WARC_the_Future_of_Strategy_2020.pdf)
+
+[WARC The Marketer's Toolkit 2021](https://dng.sharepoint.com/:b:/s/KnowledgeCenter2/EfmMIwbHpchKlttloTk3HakBhT7Rt6PFG2ZXR--iWNDMVg?e=FHN1pg)
 
 [WARC Social Strategy 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/warc/WARC_Social_Strategy_Report_2020.pdf)
