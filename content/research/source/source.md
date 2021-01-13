@@ -82,6 +82,10 @@ weight: 1
 
 ## J.D. Power
 
+[J.D. Power PIN November 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/jdpower/2020%20November%20PIN%20Industry%20Update.pdf)
+
+[J.D. Power PIN October 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/jdpower/2020%20October%20PIN%20Industry%20Update.pdf)
+
 [J.D. Power PIN September 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/jdpower/2020%20September%20PIN%20Industry%20Update.pdf)
 
 [J.D. Power PIN August 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/jdpower/2020%20Aug%20PIN%20Industry%20Update.pdf)
@@ -111,6 +115,10 @@ weight: 1
 ## Martin 
 
 [Martin The Visibility Brief](https://dng.sharepoint.com/:b:/s/KnowledgeCenter2/ETQ2Hy3KPIRGtqCsmOPrlnUBargHt44YIweosTwbza0hXQ?e=quV1yM)
+
+## MBLM 
+
+[Brand Intimacy Study 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mblm/BrandIntimacyStudy2020_USA-Report.pdf)
 
 ## Mintel 
 
@@ -175,6 +183,10 @@ weight: 1
 ## TBWA 
 
 [TBWA Edges 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/tbwa/Edges%20Glossary%202020_Final.pdf)
+
+## Volvo
+
+[Volvo Evolution of Driving & Mobility](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/volvo/Volvo_Safety_First_The_Evolution_of_Driving_and_Mobility_in_2020.pdf)
 
 ## WARC 
 

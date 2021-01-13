@@ -44,6 +44,10 @@ weight: 1
 
 ## Automotive 
 
+[J.D. Power PIN November 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/jdpower/2020%20November%20PIN%20Industry%20Update.pdf)
+
+[J.D. Power PIN October 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/jdpower/2020%20October%20PIN%20Industry%20Update.pdf)
+
 [J.D. Power PIN September 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/jdpower/2020%20September%20PIN%20Industry%20Update.pdf)
 
 [J.D. Power PIN August 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/jdpower/2020%20Aug%20PIN%20Industry%20Update.pdf)
@@ -53,6 +57,8 @@ weight: 1
 [J.D. Power PIN June 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/jdpower/2020%20June%20PIN%20Industry%20Update.pdf)
 
 [J.D. Power PIN May 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/jdpower/2020%20May%20PIN%20Industry%20Update.pdf)
+
+[Volvo Evolution of Driving & Mobility](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/volvo/Volvo_Safety_First_The_Evolution_of_Driving_and_Mobility_in_2020.pdf)
 
 ## Beauty 
 
@@ -81,6 +87,8 @@ weight: 1
 [BrandZ Global Top 100 Brands 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/brandz/2020_BrandZ_Global_Top_100_Report.pdf)
 
 [BrandZ Global Top 100 Brands 2019](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/brandz/BrandZ%20US%20Top%20100%20Report%202019.pdf)
+
+[Brand Intimacy Study 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mblm/BrandIntimacyStudy2020_USA-Report.pdf)
 
 [Mintel Challenger Brands January 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Challenger%20Brands%20-%20US%20-%20January%202020.pdf)
 
