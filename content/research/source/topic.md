@@ -82,6 +82,8 @@ weight: 1
 
 [Edelman Brand Trust 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/edelman/2020%20Edelman%20Trust%20Barometer%20Specl%20Rept%20Brand%20Trust%20in%202020-1.pdf)
 
+[Edelman Brand Trust 2021](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/edelman/2021-edelman-trust-barometer.pdf)
+
 ## Brands 
 
 [BrandZ Global Top 100 Brands 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/brandz/2020_BrandZ_Global_Top_100_Report.pdf)
