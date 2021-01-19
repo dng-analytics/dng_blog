@@ -44,6 +44,8 @@ weight: 1
 
 ## Automotive 
 
+[J.D. Power PIN December 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/jdpower/2020%20December%20PIN%20Industry%20Update.pdf)
+
 [J.D. Power PIN November 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/jdpower/2020%20November%20PIN%20Industry%20Update.pdf)
 
 [J.D. Power PIN October 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/jdpower/2020%20October%20PIN%20Industry%20Update.pdf)
