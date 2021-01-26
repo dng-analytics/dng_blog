@@ -190,6 +190,8 @@ weight: 1
 
 [Mintel Changing Retail Fall 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Changing%20Retail%20Landscape%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20September%202020.pdf)
 
+[Future of Commerce 2021](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/shopify/Shopify%20Future%20of%20Commerce%202021.pdf)
+
 ## Social Media 
 
 [WARC Social Strategy 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/warc/WARC_Social_Strategy_Report_2020.pdf)

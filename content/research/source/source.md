@@ -178,6 +178,10 @@ weight: 1
 
 [Planning Dirty Marketing Podcast Megalist](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/planning_dirty/Marketing%20Podcast%20MegaList.pdf)
 
+## Shopify
+
+[Future of Commerce 2021](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/shopify/Shopify%20Future%20of%20Commerce%202021.pdf)
+
 ## Sparks & Honey 
 
 [Sparks & Honey Trends 2019](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/sparks_honey/Sparks%20&%20Honey%202019%20Trends.pdf)
