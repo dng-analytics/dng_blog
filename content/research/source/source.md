@@ -126,6 +126,16 @@ weight: 1
 
 ## Mintel 
 
+[Mintel Potato & Tortilla Chips](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Potato%20and%20Tortilla%20Chips%20-%20US%20-%20January%202021.pdf)
+
+[Mintel How America Dines January 2021](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/How%20America%20Dines%20-%20US%20-%20January%202021.pdf)
+
+[Mintel Health Management Trends January 2021](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Health%20Management%20Trends%20-%20US%20-%20January%202021.pdf)
+
+[Mintel Mass Merchandisers December 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Mass%20Merchandisers_%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20December%202020.pdf)
+
+[Mintel Food & Drink Shopper November 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Food%20and%20Drink%20Shopper_%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20November%202020.pdf)
+
 [Mintel Burger Trends November 2020](https://dng.sharepoint.com/:b:/s/KnowledgeCenter2/EYdVmm7BvEBAmzwtcE0Vgt8Bzv_WIytsOsJCl12MFLMjuw?e=B5CyR4)
 
 [Mintel Marketing to Dads November 2020](https://dng.sharepoint.com/:b:/s/KnowledgeCenter2/EaHoRm2fekRLpUVD4kwVfjsBv9bz3zm3wb7suW8TY_jSLw?e=1OMhTl)

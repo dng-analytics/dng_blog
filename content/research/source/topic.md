@@ -112,6 +112,10 @@ weight: 1
 
 ## Foods 
 
+[Mintel Potato & Tortilla Chips](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Potato%20and%20Tortilla%20Chips%20-%20US%20-%20January%202021.pdf)
+
+[Mintel Food & Drink Shopper November 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Food%20and%20Drink%20Shopper_%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20November%202020.pdf)
+
 [Mintel Potato and Tortilla Chips March 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Potato%20and%20Tortilla%20Chips%20-%20US%20-%20March%202020.pdf)
 
 [Mintel Salty Snacks April 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Salty%20Snacks%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20April%202020.pdf)
@@ -150,6 +154,10 @@ weight: 1
 
 [Mintel Grocery Retail April 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Grocery%20Retailing%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20April%202020.pdf)
 
+## Health 
+
+[Mintel Health Management Trends January 2021](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Health%20Management%20Trends%20-%20US%20-%20January%202021.pdf)
+
 ## Loyalty 
 
 [Bond Loyalty Report 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/bond/Bond%20Loyalty%20Report%202020_US%20ExecSummary.pdf)
@@ -174,6 +182,8 @@ weight: 1
 
 ## Restaurant 
 
+[Mintel How America Dines January 2021](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/How%20America%20Dines%20-%20US%20-%20January%202021.pdf)
+
 [Mintel Covid Impact on Restaurants August 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/The%20COVID-19%20Impact%20on%20Foodservice%20Operation%20Recovery%20-%20US%20-%20August%202020.pdf)
 
 [Mintel Gen Z Diners August 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/The%20Gen%20Z%20Diner%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20August%202020.pdf)
@@ -187,6 +197,8 @@ weight: 1
 [Mintel Quick Service Restaurants April 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Quick%20Service%20Restaurants%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20April%202020.pdf)
 
 ## Retail 
+
+[Mintel Mass Merchandisers December 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Mass%20Merchandisers_%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20December%202020.pdf)
 
 [Mintel Changing Retail Fall 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Changing%20Retail%20Landscape%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20September%202020.pdf)
 
@@ -225,6 +237,8 @@ weight: 1
 [JWT Innovation Group Future 100 2019](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/jwt/Future%20100_2019.pdf)
 
 [JWT Innovation Group Future 100 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/jwt/Future100_2020.pdf)
+
+[Mintel Health Management Trends January 2021](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Health%20Management%20Trends%20-%20US%20-%20January%202021.pdf)
 
 [Mintel Fall 2020 Digital Trends](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Digital%20Trends%20-%20Fall%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20October%202020.pdf)
 
