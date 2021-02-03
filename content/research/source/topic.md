@@ -108,6 +108,8 @@ weight: 1
 
 ## Electric Vehicles 
 
+[Argus Analyst Report - Tesla](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/argus/argust_tesla.pdf)
+
 [Deloitte EV 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/deloitte/DI_Electric-Vehicles.pdf)
 
 [IEA Global EV Outlook 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/iea/Global_EV_Outlook_2020.pdf)

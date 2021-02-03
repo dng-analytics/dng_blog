@@ -30,6 +30,10 @@ weight: 1
 
 [Gen Z Preparing to Face the Future](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/ad_age/UNiDAYS%20Gen%20Z%20Preparing%20to%20Face%20the%20Future.pdf)
 
+## Argus
+
+[Argus Analyst Report - Tesla](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/argus/argust_tesla.pdf)
+
 ## Bond 
 
 [Bond Loyalty Report 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/bond/Bond%20Loyalty%20Report%202020_US%20ExecSummary.pdf)
