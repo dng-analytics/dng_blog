@@ -106,6 +106,12 @@ weight: 1
 
 [Mintel Marketing to Dads November 2020](https://dng.sharepoint.com/:b:/s/KnowledgeCenter2/EaHoRm2fekRLpUVD4kwVfjsBv9bz3zm3wb7suW8TY_jSLw?e=1OMhTl)
 
+## Electric Vehicles 
+
+[Deloitte EV 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/deloitte/DI_Electric-Vehicles.pdf)
+
+[IEA Global EV Outlook 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/iea/Global_EV_Outlook_2020.pdf)
+
 ## Equality 
 
 [State of Womens' Equality in the US](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/dentsu/The%20State%20of%20Women's%20Equality%20in%20the%20US%20-%20SeeHer%20x%20dentsu.pdf)

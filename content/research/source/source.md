@@ -48,6 +48,8 @@ weight: 1
 
 ## Deloitte 
 
+[Deloitte EV 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/deloitte/DI_Electric-Vehicles.pdf)
+
 [Deloitte 2020 Millennial Survey](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/deloitte/deloitte-2020-millennial-survey.pdf)
 
 [Deloitte 2021 Global Marketing Trends](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/deloitte/DI_2021-Global-Marketing-Trends_US.pdf)
@@ -75,6 +77,10 @@ weight: 1
 [Global Web Index Trends 2019](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/gwi/Global%20Web%202019%20Trends.pdf)
 
 [Global Web Index Trends 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/gwi/Connecting_the_dots.pdf)
+
+## IEA 
+
+[IEA Global EV Outlook 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/iea/Global_EV_Outlook_2020.pdf)
 
 ## Ipsos 
 
