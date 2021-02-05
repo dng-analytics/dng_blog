@@ -34,6 +34,10 @@ weight: 1
 
 [Argus Analyst Report - Tesla](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/argus/argust_tesla.pdf)
 
+## Blastpoint
+
+[Blastpoint 2021 EV Outlook](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/blastpoint/BlastPoint-2021-EV-Outlook_Report.pdf)
+
 ## Bond 
 
 [Bond Loyalty Report 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/bond/Bond%20Loyalty%20Report%202020_US%20ExecSummary.pdf)

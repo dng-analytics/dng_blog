@@ -110,6 +110,8 @@ weight: 1
 
 [Argus Analyst Report - Tesla](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/argus/argust_tesla.pdf)
 
+[Blastpoint 2021 EV Outlook](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/blastpoint/BlastPoint-2021-EV-Outlook_Report.pdf)
+
 [Deloitte EV 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/deloitte/DI_Electric-Vehicles.pdf)
 
 [IEA Global EV Outlook 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/iea/Global_EV_Outlook_2020.pdf)
