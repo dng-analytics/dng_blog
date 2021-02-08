@@ -212,6 +212,10 @@ weight: 1
 
 [Sparks & Honey Future of Giving 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/sparks_honey/2020_MFF_s&h_Future+of+Giving_2020.pdf)
 
+## Statista 
+
+[Statista EV in the US](https://dng.sharepoint.com/sites/KnowledgeCenter2/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={05B33D13-B10C-4C20-A827-2F7A11E343D9})
+
 ## TBWA 
 
 [TBWA Edges 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/tbwa/Edges%20Glossary%202020_Final.pdf)

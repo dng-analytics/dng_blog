@@ -116,6 +116,7 @@ weight: 1
 
 [IEA Global EV Outlook 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/iea/Global_EV_Outlook_2020.pdf)
 
+[Statista EV in the US](https://dng.sharepoint.com/sites/KnowledgeCenter2/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={05B33D13-B10C-4C20-A827-2F7A11E343D9})
 ## Equality 
 
 [State of Womens' Equality in the US](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/dentsu/The%20State%20of%20Women's%20Equality%20in%20the%20US%20-%20SeeHer%20x%20dentsu.pdf)
