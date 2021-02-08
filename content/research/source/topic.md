@@ -86,7 +86,7 @@ weight: 1
 
 [Edelman Brand Trust 2021](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/edelman/2021-edelman-trust-barometer.pdf)
 
-## Brands 
+## Brands / Brand Value 
 
 [Brand Finance Top 500 Global 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/brand_finance/brand_finance_global_500_2020_preview.pdf)
 
@@ -99,6 +99,8 @@ weight: 1
 [Brand Intimacy Study 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mblm/BrandIntimacyStudy2020_USA-Report.pdf)
 
 [Mintel Challenger Brands January 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Challenger%20Brands%20-%20US%20-%20January%202020.pdf)
+
+[Statista Brand Value Dossier Updated 2021](https://dng.sharepoint.com/sites/KnowledgeCenter2/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={029B1F9D-D486-4559-B434-96A00398CC5C})
 
 ## Covid 
 
@@ -196,6 +198,8 @@ weight: 1
 [WARC Advertising in Recession 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/warc/WARC_guide_to_marketing_recession.pdf)
 
 ## Restaurant 
+
+[Statista Restaurants in the US January 2021](https://dng.sharepoint.com/sites/KnowledgeCenter2/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={ABA703AB-9CF4-4FE5-9B75-3B3238EE64B7})
 
 [Mintel How America Dines January 2021](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/How%20America%20Dines%20-%20US%20-%20January%202021.pdf)
 

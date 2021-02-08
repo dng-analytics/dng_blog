@@ -220,7 +220,11 @@ weight: 1
 
 ## Statista 
 
+[Statista Brand Value Dossier Updated 2021](https://dng.sharepoint.com/sites/KnowledgeCenter2/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={029B1F9D-D486-4559-B434-96A00398CC5C})
+
 [Statista EV in the US](https://dng.sharepoint.com/sites/KnowledgeCenter2/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={05B33D13-B10C-4C20-A827-2F7A11E343D9})
+
+[Statista Restaurants in the US January 2021](https://dng.sharepoint.com/sites/KnowledgeCenter2/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={ABA703AB-9CF4-4FE5-9B75-3B3238EE64B7})
 
 ## TBWA 
 
