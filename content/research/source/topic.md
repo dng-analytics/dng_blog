@@ -88,6 +88,10 @@ weight: 1
 
 ## Brands 
 
+[Brand Finance Top 500 Global 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/brand_finance/brand_finance_global_500_2020_preview.pdf)
+
+[Brand Finance Top 500 Global 2021](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/brand_finance/brand-finance-global-500-2021-preview.pdf)
+
 [BrandZ Global Top 100 Brands 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/brandz/2020_BrandZ_Global_Top_100_Report.pdf)
 
 [BrandZ Global Top 100 Brands 2019](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/brandz/BrandZ%20US%20Top%20100%20Report%202019.pdf)

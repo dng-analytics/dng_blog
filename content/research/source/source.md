@@ -44,6 +44,12 @@ weight: 1
 
 [Bond Loyalty Report 2019](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/bond/Bond_US%20TLR19%20Exec%20Summary%20Launch%20Edition.pdf)
 
+## Brand Finance 
+
+[Brand Finance Top 500 Global 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/brand_finance/brand_finance_global_500_2020_preview.pdf)
+
+[Brand Finance Top 500 Global 2021](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/brand_finance/brand-finance-global-500-2021-preview.pdf)
+
 ## BrandZ
 
 [BrandZ Global Top 100 Brands 2019](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/brandz/BrandZ%20US%20Top%20100%20Report%202019.pdf)
