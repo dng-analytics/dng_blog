@@ -2,11 +2,11 @@
 .Rhistory
 .RData
 .Ruserdata
-public/
+/public/
 *.Rproj
 *.Rmd
-blogdown
+/blogdown
 .DS_Store
 Thumbs.db
-public
-resources
+/public
+/resources
