@@ -35,5 +35,6 @@ options(
   blogdown.yaml.empty = TRUE,
   blogdown.new_bundle = TRUE,
   blogdown.title_case = TRUE,
-  blogdown.hugo.version = "0.80.0"
+  blogdown.hugo.version = "0.80.0",
+  blogdown.knit.on_save = TRUE
 )
