@@ -208,6 +208,10 @@ weight: 1
 
 [Planning Dirty Marketing Podcast Megalist](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/planning_dirty/Marketing%20Podcast%20MegaList.pdf)
 
+## Rival IQ
+
+[2021 Social Media Benchmarks](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/rival_iq/2021-Rival-IQ-Social-Media-Benchmark-Report.pdf)
+
 ## Shopify
 
 [Future of Commerce 2021](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/shopify/Shopify%20Future%20of%20Commerce%202021.pdf)

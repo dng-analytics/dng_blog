@@ -225,6 +225,8 @@ weight: 1
 
 ## Social Media 
 
+[2021 Social Media Benchmarks](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/rival_iq/2021-Rival-IQ-Social-Media-Benchmark-Report.pdf)
+
 [WARC Social Strategy 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/warc/WARC_Social_Strategy_Report_2020.pdf)
 
 ## Strategy 
