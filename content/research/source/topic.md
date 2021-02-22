@@ -44,6 +44,8 @@ weight: 1
 
 ## Automotive 
 
+[J.D. Power PIN January 2021](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/jdpower/2021%20January%20PIN%20Industry%20Update.pdf)
+
 [J.D. Power PIN December 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/jdpower/2020%20December%20PIN%20Industry%20Update.pdf)
 
 [J.D. Power PIN November 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/jdpower/2020%20November%20PIN%20Industry%20Update.pdf)
@@ -122,7 +124,10 @@ weight: 1
 
 [IEA Global EV Outlook 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/iea/Global_EV_Outlook_2020.pdf)
 
+[Plug In America 2021 Survey of EV Owners](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/pluginamerica/2021-PIA-Survey-Report.pdf)
+
 [Statista EV in the US](https://dng.sharepoint.com/sites/KnowledgeCenter2/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={05B33D13-B10C-4C20-A827-2F7A11E343D9})
+
 ## Equality 
 
 [State of Womens' Equality in the US](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/dentsu/The%20State%20of%20Women's%20Equality%20in%20the%20US%20-%20SeeHer%20x%20dentsu.pdf)

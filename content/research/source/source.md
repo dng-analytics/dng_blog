@@ -104,6 +104,8 @@ weight: 1
 
 ## J.D. Power
 
+[J.D. Power PIN January 2021](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/jdpower/2021%20January%20PIN%20Industry%20Update.pdf)
+
 [J.D. Power PIN December 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/jdpower/2020%20December%20PIN%20Industry%20Update.pdf)
 
 [J.D. Power PIN November 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/jdpower/2020%20November%20PIN%20Industry%20Update.pdf)
@@ -207,6 +209,10 @@ weight: 1
 ## Planning Dirty 
 
 [Planning Dirty Marketing Podcast Megalist](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/planning_dirty/Marketing%20Podcast%20MegaList.pdf)
+
+## Plug In America
+
+[2021 PIA Survey of EV Owners](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/pluginamerica/2021-PIA-Survey-Report.pdf)
 
 ## Rival IQ
 
