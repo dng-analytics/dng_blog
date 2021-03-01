@@ -60,6 +60,10 @@ weight: 1
 
 [Canvas8 Principles of Allyship 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/canvas8/Canvas8.Principles%20of%20Allyship.pdf)
 
+## Consumer Reports 
+
+[National EV Survey December 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/consumer_reports/CR-National-EV-Survey-December-2020-2.pdf)
+
 ## Deloitte 
 
 [Deloitte EV 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/deloitte/DI_Electric-Vehicles.pdf)
