@@ -136,7 +136,11 @@ weight: 1
 
 ## Foods 
 
-[Mintel Potato & Tortilla Chips](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Potato%20and%20Tortilla%20Chips%20-%20US%20-%20January%202021.pdf)
+[Mintel What America Eats February 2021](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/What%20America%20Eats%20-%20US%20-%20February%202021.pdf)
+
+[Mintel Convenience Store Foodservice February 2021](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Convenience%20Store%20Foodservice%20%20-%20US%20-%20February%202021.pdf)
+
+[Mintel Potato & Tortilla Chips January 2021](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Potato%20and%20Tortilla%20Chips%20-%20US%20-%20January%202021.pdf)
 
 [Mintel Food & Drink Shopper November 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Food%20and%20Drink%20Shopper_%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20November%202020.pdf)
 
@@ -205,6 +209,8 @@ weight: 1
 [WARC Advertising in Recession 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/warc/WARC_guide_to_marketing_recession.pdf)
 
 ## Restaurant 
+
+[Mintel What America Eats February 2021](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/What%20America%20Eats%20-%20US%20-%20February%202021.pdf)
 
 [Statista Restaurants in the US January 2021](https://dng.sharepoint.com/sites/KnowledgeCenter2/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={ABA703AB-9CF4-4FE5-9B75-3B3238EE64B7})
 
@@ -276,4 +282,6 @@ weight: 1
 
 [TBWA Edges 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/tbwa/Edges%20Glossary%202020_Final.pdf)
 
+## Vacation
 
+[Mintel Outdoor Vacation Activities Febraury 2021](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Outdoor%20Vacation%20Activities%20-%20US%20-%20February%202021.pdf)

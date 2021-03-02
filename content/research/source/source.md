@@ -152,7 +152,13 @@ weight: 1
 
 ## Mintel 
 
-[Mintel Potato & Tortilla Chips](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Potato%20and%20Tortilla%20Chips%20-%20US%20-%20January%202021.pdf)
+[Mintel What America Eats February 2021](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/What%20America%20Eats%20-%20US%20-%20February%202021.pdf)
+
+[Mintel Outdoor Vacation Activities Febraury 2021](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Outdoor%20Vacation%20Activities%20-%20US%20-%20February%202021.pdf)
+
+[Mintel Convenience Store Foodservice February 2021](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Convenience%20Store%20Foodservice%20%20-%20US%20-%20February%202021.pdf)
+
+[Mintel Potato & Tortilla Chips January 2021](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Potato%20and%20Tortilla%20Chips%20-%20US%20-%20January%202021.pdf)
 
 [Mintel How America Dines January 2021](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/How%20America%20Dines%20-%20US%20-%20January%202021.pdf)
 
