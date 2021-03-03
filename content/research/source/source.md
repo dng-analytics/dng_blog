@@ -72,6 +72,8 @@ weight: 1
 
 [Deloitte 2021 Global Marketing Trends](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/deloitte/DI_2021-Global-Marketing-Trends_US.pdf)
 
+[Deloitte 2021 Global Automotive Survey](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/deloitte/us-2021-global-automotive-consumer-study-global-focus-countries.pdf)
+
 ## Dentsu
 
 [State of Womens' Equality in the US](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/dentsu/The%20State%20of%20Women's%20Equality%20in%20the%20US%20-%20SeeHer%20x%20dentsu.pdf)

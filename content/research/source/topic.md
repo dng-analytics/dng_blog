@@ -44,6 +44,8 @@ weight: 1
 
 ## Automotive 
 
+[Deloitte 2021 Global Automotive Survey](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/deloitte/us-2021-global-automotive-consumer-study-global-focus-countries.pdf)
+
 [J.D. Power PIN January 2021](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/jdpower/2021%20January%20PIN%20Industry%20Update.pdf)
 
 [J.D. Power PIN December 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/jdpower/2020%20December%20PIN%20Industry%20Update.pdf)
@@ -123,6 +125,8 @@ weight: 1
 [Consumer Reports National EV Survey December 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/consumer_reports/CR-National-EV-Survey-December-2020-2.pdf)
 
 [Deloitte EV 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/deloitte/DI_Electric-Vehicles.pdf)
+
+[Deloitte 2021 Global Automotive Survey](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/deloitte/us-2021-global-automotive-consumer-study-global-focus-countries.pdf)
 
 [IEA Global EV Outlook 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/iea/Global_EV_Outlook_2020.pdf)
 
