@@ -88,6 +88,10 @@ weight: 1
 
 [Edelman Brand Trust 2021](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/edelman/2021-edelman-trust-barometer.pdf)
 
+## Euromonitor 
+
+[Euromonitor 2021 Global Trends](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/euromonitor/Euromonitor%202021%20Global%20Trends.pdf)
+
 ## Foresight Factory
 
 [Foresight Factory Trends 2021 Preview](https://dng.sharepoint.com/:b:/s/KnowledgeCenter2/Ed2_ChhNXNNLrVDzBlpIiJoBe8MkjBSn5KyCkt5bhbYN5g?e=Cfd3zI)

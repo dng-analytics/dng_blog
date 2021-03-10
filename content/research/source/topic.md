@@ -264,6 +264,8 @@ weight: 1
 
 [Accenture-Fjord Trends 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/accenture/Accenture-Fjord-Trends-2020-Report.pdf)
 
+[Euromonitor 2021 Global Trends](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/euromonitor/Euromonitor%202021%20Global%20Trends.pdf)
+
 [Foresight Factory Trends 2021 Preview](https://dng.sharepoint.com/:b:/s/KnowledgeCenter2/Ed2_ChhNXNNLrVDzBlpIiJoBe8MkjBSn5KyCkt5bhbYN5g?e=Cfd3zI)
 
 [Global Web Index Trends 2019](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/gwi/Global%20Web%202019%20Trends.pdf)
