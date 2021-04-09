@@ -114,6 +114,8 @@ weight: 1
 
 ## J.D. Power
 
+[J.D. Power Pin February 2021](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/jdpower/2021%20February%20PIN%20Industry%20Update.pdf)
+
 [J.D. Power PIN January 2021](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/jdpower/2021%20January%20PIN%20Industry%20Update.pdf)
 
 [J.D. Power PIN December 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/jdpower/2020%20December%20PIN%20Industry%20Update.pdf)
