@@ -162,6 +162,8 @@ weight: 1
 
 [JWT Innovation Group New Adulthood](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/jwt/THE%20NEW%20ADULTHOOD.pdf)
 
+[Piper Sandler teen survey 2021](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/pipersandler/piper%20sandler%20teen%20survey.pdf)
+
 ### Gen X 
 
 [Mintel Marketing to Gen X July 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/mintel/Marketing%20to%20Gen%20X%20Incl%20Impact%20of%20COVID-19%20-%20US%20-%20July%202020.pdf)
