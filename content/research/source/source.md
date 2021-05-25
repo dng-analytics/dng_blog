@@ -58,6 +58,8 @@ weight: 1
 
 ## Canvas8
 
+[Canvas8 Cultural Snapshot 2021](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/canvas8/USA_Cultural_Snapshot_2021.pdf)
+
 [Canvas8 Principles of Allyship 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/canvas8/Canvas8.Principles%20of%20Allyship.pdf)
 
 ## Consumer Reports 
@@ -279,3 +281,7 @@ weight: 1
 [WARC The Marketer's Toolkit 2021](https://dng.sharepoint.com/:b:/s/KnowledgeCenter2/EfmMIwbHpchKlttloTk3HakBhT7Rt6PFG2ZXR--iWNDMVg?e=FHN1pg)
 
 [WARC Social Strategy 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/warc/WARC_Social_Strategy_Report_2020.pdf)
+
+## ETC
+
+[The art of deck making](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/deck%20making/The_Art_Of_Deckmaking_Final_RV%20(1).pdf)

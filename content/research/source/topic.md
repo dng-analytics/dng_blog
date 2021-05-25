@@ -1,13 +1,13 @@
 ---
-date: "2019-05-05T00:00:00+01:00"
-draft: false
-linktitle: By Topic
+title: "By Topic"
+draft: no
+date: '2019-05-05T00:00:00+01:00'
 menu:
   example:
     parent: Research Docs
     weight: 2
-title: By Topic
-toc: true
+linktitle: By Topic
+toc: yes
 type: docs
 weight: 1
 ---
@@ -119,6 +119,12 @@ weight: 1
 ## Dads 
 
 [Mintel Marketing to Dads November 2020](https://dng.sharepoint.com/:b:/s/KnowledgeCenter2/EaHoRm2fekRLpUVD4kwVfjsBv9bz3zm3wb7suW8TY_jSLw?e=1OMhTl)
+
+
+## Deck Making
+
+[The art of deck making](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/deck%20making/The_Art_Of_Deckmaking_Final_RV%20(1).pdf)
+
 
 ## Electric Vehicles 
 
@@ -269,6 +275,8 @@ weight: 1
 [Accenture-Fjord Trends 2019](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/accenture/Fjords%202019%20Trends.pdf)
 
 [Accenture-Fjord Trends 2020](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/accenture/Accenture-Fjord-Trends-2020-Report.pdf)
+
+[Canvas8 Cultural Snapshot 2021](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/canvas8/USA_Cultural_Snapshot_2021.pdf)
 
 [Euromonitor 2021 Global Trends](https://dng.sharepoint.com/sites/KnowledgeCenter2/Shared%20Documents/General/euromonitor/Euromonitor%202021%20Global%20Trends.pdf)
 
